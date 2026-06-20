@@ -263,10 +263,18 @@ gap: 20px;
     border-radius: 10px;
     
 }
+#we-do .container .row .align-self-center .icon-we:hover{
+    
+    background-color:#C7FD24;
+}
 
 #we-do .container .row .align-self-center i{
     color: #CBFE1C;
     font-size: 30px;
+   
+}
+#we-do .container .row .align-self-center .icon-we:hover i{
+    color: #1E2939;
    
 }
 
